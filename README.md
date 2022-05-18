@@ -67,11 +67,11 @@
 
 **System diagram**
 
-![Image](System diagram.png "System diagram")
+![Image](./System diagram.png "System diagram")
 
 **Container diagram**
 
-![Image](Container diagram.png "Container diagram")
+![Image](./Container diagram.png "Container diagram")
 
 ## Critical scenarios
 
